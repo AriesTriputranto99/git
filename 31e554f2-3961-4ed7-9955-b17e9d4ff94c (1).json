@@ -1,0 +1,123 @@
+{
+  "Progress": null,
+  "NextSteps": null,
+  "Attachments": true,
+  "Lists": null,
+  "VerifiableCredentials": {
+    "docsId": "31e554f2-3961-4ed7-9955-b17e9d4ff94c",
+    "userCredentials": []
+  },
+  "Q&A": {
+    "docsId": "31e554f2-3961-4ed7-9955-b17e9d4ff94c",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  },
+  "Assessments": null,
+  "Certifications": null,
+  "TechProfile": {
+    "email": "ariestriputranto97@gmail.com",
+    "locale": "id-id",
+    "country": "ID",
+    "contactPointTopicSetting": "OptInExplicit",
+    "isInstructor": false,
+    "isChallengeAdmin": false,
+    "isQnaModerator": false,
+    "source": "docs",
+    "authenticationModes": [
+      {
+        "id": "0003400294D46148",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "ariestriputranto97@gmail.com",
+        "oid": "00000000-0000-0000-14d3-8e48216b59c3",
+        "dateAcceptedPrivacyNotice": "2025-08-04T13:11:14.1528848+00:00",
+        "dateAdded": "2025-08-04T13:11:14.1528849+00:00"
+      }
+    ],
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": true,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": false,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "instant",
+        "answerAccepted": "instant",
+        "commentPosted": "instant",
+        "newPrivateMessage": "instant",
+        "questionUpdated": "off",
+        "questionPosted": "off",
+        "unansweredQuestions": "off",
+        "newFollower": "instant",
+        "answerUpdated": "off"
+      }
+    },
+    "sharingId": "3056B41CD19A50C3",
+    "legalName": {
+      "first": "Aries",
+      "middle": "Tri",
+      "last": "Putranto"
+    },
+    "userId": "31e554f2-3961-4ed7-9955-b17e9d4ff94c",
+    "userName": "AriesTriputranto-6129",
+    "displayName": "AriesTriputranto",
+    "avatarUrl": "https://techprofile.blob.core.windows.net/images/8lTlMWE5106ZVbF-nU_5TA.png?8DDD35",
+    "avatarThumbnailUrl": "https://techprofile.blob.core.windows.net/thumbnails/thumb_8lTlMWE5106ZVbF-nU_5TA.png?8DDD35",
+    "isPrivate": true,
+    "affiliations": [],
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "8/4/2025 1:11:14 PM"
+  },
+  "XP": {
+    "xp": {
+      "docsId": "31e554f2-3961-4ed7-9955-b17e9d4ff94c",
+      "totalXp": 0,
+      "currentLevel": 1,
+      "currentLevelLow": 0,
+      "currentLevelHigh": 1799,
+      "currentLevelPointsEarned": 0,
+      "nextLevel": 2,
+      "pointsUntilNextLevel": 1800,
+      "achievementCategories": {
+        "Unknown": 0,
+        "Modules": 0,
+        "Courses": 0,
+        "Qna": 0,
+        "Challenges": 0,
+        "Events": 0,
+        "LearningPaths": 0,
+        "Plans": 0,
+        "Special": 0
+      }
+    },
+    "achievements": []
+  },
+  "SkillAssessment": null
+}
